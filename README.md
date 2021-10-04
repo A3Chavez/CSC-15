@@ -1,2 +1,8 @@
 # CSC-15
-Course work done in CSC 15 for Prof. Faroughi
+Course Work for Professor Gita Faroughi
+
+Class: CSC 15, Fall 2018
+
+University: CSUS
+
+Author: Anthony Chavez
